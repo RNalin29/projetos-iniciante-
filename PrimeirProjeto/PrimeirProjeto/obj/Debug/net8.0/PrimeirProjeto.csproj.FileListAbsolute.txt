@@ -1,0 +1,14 @@
+C:\Users\IsadoraSchutzer\Desktop\Material de Estudo\Projetos\PrimeirProjeto\PrimeirProjeto\bin\Debug\net8.0\PrimeirProjeto.exe
+C:\Users\IsadoraSchutzer\Desktop\Material de Estudo\Projetos\PrimeirProjeto\PrimeirProjeto\bin\Debug\net8.0\PrimeirProjeto.deps.json
+C:\Users\IsadoraSchutzer\Desktop\Material de Estudo\Projetos\PrimeirProjeto\PrimeirProjeto\bin\Debug\net8.0\PrimeirProjeto.runtimeconfig.json
+C:\Users\IsadoraSchutzer\Desktop\Material de Estudo\Projetos\PrimeirProjeto\PrimeirProjeto\bin\Debug\net8.0\PrimeirProjeto.dll
+C:\Users\IsadoraSchutzer\Desktop\Material de Estudo\Projetos\PrimeirProjeto\PrimeirProjeto\bin\Debug\net8.0\PrimeirProjeto.pdb
+C:\Users\IsadoraSchutzer\Desktop\Material de Estudo\Projetos\PrimeirProjeto\PrimeirProjeto\obj\Debug\net8.0\PrimeirProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IsadoraSchutzer\Desktop\Material de Estudo\Projetos\PrimeirProjeto\PrimeirProjeto\obj\Debug\net8.0\PrimeirProjeto.AssemblyInfoInputs.cache
+C:\Users\IsadoraSchutzer\Desktop\Material de Estudo\Projetos\PrimeirProjeto\PrimeirProjeto\obj\Debug\net8.0\PrimeirProjeto.AssemblyInfo.cs
+C:\Users\IsadoraSchutzer\Desktop\Material de Estudo\Projetos\PrimeirProjeto\PrimeirProjeto\obj\Debug\net8.0\PrimeirProjeto.csproj.CoreCompileInputs.cache
+C:\Users\IsadoraSchutzer\Desktop\Material de Estudo\Projetos\PrimeirProjeto\PrimeirProjeto\obj\Debug\net8.0\PrimeirProjeto.dll
+C:\Users\IsadoraSchutzer\Desktop\Material de Estudo\Projetos\PrimeirProjeto\PrimeirProjeto\obj\Debug\net8.0\refint\PrimeirProjeto.dll
+C:\Users\IsadoraSchutzer\Desktop\Material de Estudo\Projetos\PrimeirProjeto\PrimeirProjeto\obj\Debug\net8.0\PrimeirProjeto.pdb
+C:\Users\IsadoraSchutzer\Desktop\Material de Estudo\Projetos\PrimeirProjeto\PrimeirProjeto\obj\Debug\net8.0\PrimeirProjeto.genruntimeconfig.cache
+C:\Users\IsadoraSchutzer\Desktop\Material de Estudo\Projetos\PrimeirProjeto\PrimeirProjeto\obj\Debug\net8.0\ref\PrimeirProjeto.dll
